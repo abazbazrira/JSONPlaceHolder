@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "afifuddin",
+      "alamat": "pekalongan",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 2,
+      "nama": "bayu",
+      "alamat": "jepara",
+      "umur": 22,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 3,
+      "nama": "hendro",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 4,
+      "nama": "afif",
+      "alamat": "pekalongan",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 5,
+      "nama": "bayu",
+      "alamat": "jepara",
+      "umur": 22,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 6,
+      "nama": "hendro",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 7,
+      "nama": "afif",
+      "alamat": "pekalongan",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 8,
+      "nama": "bayu",
+      "alamat": "jepara",
+      "umur": 22,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 9,
+      "nama": "hendro",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 10,
+      "nama": "afif",
+      "alamat": "pekalongan",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 11,
+      "nama": "bayu",
+      "alamat": "jepara",
+      "umur": 22,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 12,
+      "nama": "hendro",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 13,
+      "nama": "afif",
+      "alamat": "pekalongan",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 14,
+      "nama": "bayu",
+      "alamat": "jepara",
+      "umur": 22,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 15,
+      "nama": "hendro",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 16,
+      "nama": "afif",
+      "alamat": "pekalongan",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 17,
+      "nama": "bayu",
+      "alamat": "jepara",
+      "umur": 22,
+      "nohp": "0856878787"
+    },
+    {
+      "id": 18,
+      "nama": "hendro",
+      "alamat": "Jakarta",
+      "umur": 24,
+      "nohp": "0856878787"
+    },
+  ]
+}
